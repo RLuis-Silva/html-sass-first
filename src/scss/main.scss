@@ -1,0 +1,21 @@
+// variabili con Sass
+$color-arancione: orange;
+$color-violet: red;
+
+body{
+    color:white;
+    background-color: black; 
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2{
+    color: $color-arancione;
+}
+
+h3{
+    color: $color-violet;
+}
